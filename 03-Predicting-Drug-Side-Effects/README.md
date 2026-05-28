@@ -34,4 +34,4 @@ The project found that combining ChemBERTa molecular embeddings with physicochem
 This project showed how chemical language models can be used to represent molecular structure and how those embeddings can be combined with traditional drug features for healthcare prediction tasks.
 
 ## Files
-- `Predicting Drug Side Effects using Integrated Molecular Embeddings and Physicochemical Features.pdf` — Full project report
+- `Predicting Drug Side Effects using.pdf` — Full project report
