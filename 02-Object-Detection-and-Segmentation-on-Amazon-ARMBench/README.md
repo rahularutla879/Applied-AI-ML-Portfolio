@@ -37,4 +37,4 @@ Amazon ARMBench object segmentation dataset.
 This project helped compare the trade-offs between two-stage models, one-stage detectors, and segmentation-based pipelines for robotic vision tasks.
 
 ## Files
-- 'Object Detection and Segmentation on Amazon ARMBench.pdf' — Full project report
+-  `Object Detection and Segmentation on Amazon ARMBench.pdf` — Full project report 
