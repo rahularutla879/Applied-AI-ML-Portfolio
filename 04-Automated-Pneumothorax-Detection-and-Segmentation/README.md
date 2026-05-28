@@ -36,4 +36,4 @@ The model was evaluated using segmentation metrics such as IoU and Dice score, a
 This project showed how multi-task learning can combine classification and segmentation in a single medical imaging pipeline. It also helped demonstrate how segmentation outputs can support more interpretable clinical AI predictions.
 
 ## Files
-- `Pneumothorax Detection and Segmentation.pdf` — Full project report
+- `Automated Pneumothorax Detection and Segmentation.pdf` — Full project report
