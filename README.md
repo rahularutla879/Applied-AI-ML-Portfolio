@@ -1,6 +1,6 @@
 # Applied-AI-ML-Portfolio
 
-This repository contains selected applied AI and machine learning projects focused on computer vision, medical imaging, vision transformers, and healthcare prediction.
+This repository contains applied AI and machine learning projects focused on computer vision, medical imaging, vision transformers, and healthcare prediction.
 
 The projects include full reports, methodology summaries, model architecture explanations, evaluation results, and key learnings. These projects were completed as academic/research work, so this repository focuses on documentation, reproducible methodology, and results rather than private or restricted code.
 
